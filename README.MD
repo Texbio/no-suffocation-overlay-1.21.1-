@@ -5,4 +5,3 @@ A small mod that removes the suffocation overlay (when your head is in a block).
 </br >-Made with Claude ai
 
 
-
