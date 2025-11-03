@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="nosuffocationoverlay"
+version="1.0.0"
+displayName="No Suffocation Overlay"
+authors="t"
+description='''Removes the suffocation overlay when your head is inside a block'''
+
+[[dependencies.nosuffocationoverlay]]
+modId="neoforge"
+type="required"
+versionRange="[21.1,22)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.nosuffocationoverlay]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.22)"
+ordering="NONE"
+side="BOTH"
